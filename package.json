@@ -1,0 +1,24 @@
+{
+  "name": "godjs",
+  "version": "1.0.0",
+  "description": "This package is under development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqibashef/godjs.git"
+  },
+  "keywords": [
+    "godjs",
+    "npm",
+    "package"
+  ],
+  "author": "Aqib Ashef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aqibashef/godjs/issues"
+  },
+  "homepage": "https://github.com/aqibashef/godjs#readme"
+}
